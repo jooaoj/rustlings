@@ -6,3 +6,4 @@ Practical training for the Rust programming language!
 | -------- | --------- |
 |     0    |     X     |
 |     1    |     X     |
+|     2    |     X     |
