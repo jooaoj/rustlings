@@ -20,7 +20,7 @@ Practical training for the Rust programming language!
 |5|X|
 |6|X|
 |7|X|
-|8||
+|8|X|
 |9||
 |10||
 |11||
