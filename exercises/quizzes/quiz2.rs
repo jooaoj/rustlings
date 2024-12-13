@@ -24,8 +24,6 @@ enum Command {
 }
 
 mod my_module {
-    use std::process::Output;
-
     use super::Command;
 
     // TODO: Complete the function as described above.
