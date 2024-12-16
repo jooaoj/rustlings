@@ -21,13 +21,21 @@ fn total_cost(item_quantity: &str) -> Result<i32, ParseIntError> {
     let cost_per_item = 5;
 
     // TODO: Handle the error case as described above.
-    let qty = item_quantity.parse::<i32>();
-
-    Ok(qty * cost_per_item + processing_fee)
+    match item_quantity.parse::<i32>() {
+        Ok(qty) => Ok(qty * cost_per_item + processing_fee),
+        Err(e) => Err(e),
+    }
 }
 
 fn main() {
-    // You can optionally experiment here.
+    let _a = 69;
+    let _b = "just spam";
+    let total = total_cost(&_a.to_string());
+
+    match total {
+        Err(e) => println!("> Error: {:?}\n> Try giving a number or a digit", e),
+        Ok(_) => println!("Total cost: {:?} rustbucks", total.unwrap()),
+    };
 }
 
 #[cfg(test)]
