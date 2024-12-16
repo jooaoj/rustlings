@@ -26,7 +26,7 @@ Practical training for the Rust programming language!
 |11|X|Collection types (Hash Map) and their operations|
 |12|X|Option<T> and some more pattern matching practise|
 |13|X|Error handling with Result<_,_>|
-|14||
+|14|X|Very simple play of generics syntax|
 |15||
 |16||
 |17||
