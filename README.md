@@ -2,7 +2,7 @@
 
 Practical training for the Rust programming language!
 
-## Progress: 58/94
+## Progress: 63/94
 
 |Quizzes|Completed|Learned|
 |---|---|---|
@@ -27,7 +27,7 @@ Practical training for the Rust programming language!
 |12|X|Option<T> and some more pattern matching practise|
 |13|X|Error handling with Result<_,_>|
 |14|X|Very simple play of generics syntax|
-|15||
+|15|X|Traits and defining shared behaviour|
 |16||
 |17||
 |18||
