@@ -2,7 +2,7 @@
 
 Practical training for the Rust programming language!
 
-## Progress: 63/94
+## Progress: 64/94
 
 |Quizzes|Completed|Learned|
 |---|---|---|
