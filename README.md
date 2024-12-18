@@ -2,7 +2,7 @@
 
 Practical training for the Rust programming language!
 
-## Progress: 64/94
+## Progress: 67/94
 
 |Quizzes|Completed|Learned|
 |---|---|---|
@@ -28,7 +28,7 @@ Practical training for the Rust programming language!
 |13|X|Error handling with Result<_,_>|
 |14|X|Very simple play of generics syntax|
 |15|X|Traits and defining shared behaviour|
-|16||
+|16|X|Lifetimes and 'a-annotations|
 |17||
 |18||
 |19||
