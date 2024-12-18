@@ -8,7 +8,7 @@ Practical training for the Rust programming language!
 |---|---|---|
 |1|X|Getting a better understanding of the basic syntax|
 |2|X|Getting better at understanding a Rust project in full.|  
-|3||
+|3|X|A very simple quiz for generics: nails down the point well however|
 
 |Exercise|Completed|Topic|
 |---|---|---|
