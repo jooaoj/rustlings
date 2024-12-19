@@ -2,7 +2,7 @@
 
 Practical training for the Rust programming language!
 
-## Progress: 67/94
+## Progress: 76/94
 
 |Quizzes|Completed|Learned|
 |---|---|---|
@@ -29,7 +29,7 @@ Practical training for the Rust programming language!
 |14|X|Very simple play of generics syntax|
 |15|X|Traits and defining shared behaviour|
 |16|X|Lifetimes and 'a-annotations|
-|17||
+|17|X|Automated tests: syntax and workflows|
 |18||
 |19||
 |20||
